@@ -1,0 +1,23 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
+    Arial, sans-serif;
+  margin: auto;
+  max-width: 38rem;
+  padding: 2rem;
+  overflow: hidden;
+  -webkit-app-region: drag;
+}
+
+.nagito {
+  width: 25%;
+  height: auto;
+}
+
+.speech {
+  background-color: white;
+  position: absolute;
+  top: 10%;
+  left: 40%;
+  display: inline;
+  border-radius: 4px;
+}
